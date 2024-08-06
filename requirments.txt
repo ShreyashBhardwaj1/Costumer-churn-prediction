@@ -7,4 +7,5 @@ scikit-learn
 missingno
 xgboost
 catboost
+nbformat
 -e .
